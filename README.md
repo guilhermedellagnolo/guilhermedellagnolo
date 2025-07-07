@@ -13,7 +13,7 @@ Projetos e Estudos em Andamento:
 - TreinEx - Sistema de Gestão de Treinos Militares
   Projeto próprio integrando front-end e back-end, com foco em soluções para o ambiente militar;
 
-🎯 Próximos Objetivos:
+  Próximos Objetivos:
 
 - Fortalecer o raciocínio lógico e a capacidade de resolver problemas computacionais;  
 - Desenvolver projetos cada vez mais completos e aplicáveis ao mercado;  
