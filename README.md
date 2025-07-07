@@ -4,7 +4,7 @@ Atualmente estou em transição de carreira para a área de tecnologia, com foco
 
 Projetos e Estudos em Andamento:
 
-- Cursando Análise e Desenvolvimento de Sistemas na Univille 3/6;
+- Cursando Análise e Desenvolvimento de Sistemas na Univille 2/6;
 
 - CS50 - Harvard's Introduction to Computer Science  
   Jornada prática no curso CS50, aprimorando lógica de programação e fundamentos da computação;
