@@ -4,7 +4,7 @@ Opa! Eu sou o Guilherme Dell'Agnolo
  
 🧠 Estudos em Andamento 
 
-Análise e Desenvolvimento de Sistemas — Univille (2/6)
+Análise e Desenvolvimento de Sistemas na Univille (2/6)
 
 **CS50 - Harvard’s Introduction to Computer Science** Jornada prática em fundamentos da computação e programação.  
 👉 [Veja meu progresso aqui](https://github.com/guilhermedellagnolo/CS50-journey) 
