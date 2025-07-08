@@ -1,24 +1,17 @@
-# Olá, sou o Guilherme Dell'Agnolo!
+Opa! Eu sou o Guilherme Dell'Agnolo 
 
-Atualmente estou em transição de carreira para a área de tecnologia, com foco na construção de projetos práticos e consolidação de uma base sólida em programação; 
+💻 Em transição de carreira para a área de tecnologia, focado em projetos práticos e consolidação de uma base sólida em programação;
+ 
+🧠 Estudos em Andamento 
 
-Projetos e Estudos em Andamento:
+🎓Análise e Desenvolvimento de Sistemas — Univille (2/6)
+📘 **CS50 - Harvard’s Introduction to Computer Science** Jornada prática em fundamentos da computação e programação. 
+👉 [Veja meu progresso aqui](LINK_DO_SEU_REPO_CS50) - 
 
-- Cursando Análise e Desenvolvimento de Sistemas na Univille 2/6;
+🛡️ **TreinEx - Sistema de Gestão de Treinos Militares** Projeto próprio com C#, ASP.NET, SQL Server e React. Foco em soluções para o ambiente militar.
 
-- CS50 - Harvard's Introduction to Computer Science  
-  Jornada prática no curso CS50, aprimorando lógica de programação e fundamentos da computação;
-  [➡ Veja meu progresso aqui](https://github.com/guilheremedelfer/cs50-journey)
-
-- TreinEx - Sistema de Gestão de Treinos Militares
-  Projeto próprio integrando front-end e back-end, com foco em soluções para o ambiente militar;
-
-  Próximos Objetivos:
-
-- Fortalecer o raciocínio lógico e a capacidade de resolver problemas computacionais;  
-- Desenvolver projetos cada vez mais completos e aplicáveis ao mercado;  
-- Participar ativamente de comunidades e projetos open source;  
-- Unir a disciplina, resiliência e liderança do ambiente militar à minha jornada na tecnologia;  
-
-**Acompanhe minha evolução por aqui ou conecte-se no [LinkedIn](https://www.linkedin.com/in/guilherme-dell-agnolo-1a8087363)**
-
+🎯 Próximos Objetivos 
+  - Aprimorar lógica de programação e algoritmos.
+  - Criar projetos completos com tecnologias modernas.
+  - Contribuir com projetos open-source.
+  - Integrar habilidades militares no mundo da tecnologia.
