@@ -12,7 +12,8 @@ Análise e Desenvolvimento de Sistemas na Univille (2/6)
 **TreinEx - Sistema de Gestão de Treinos Militares** Projeto próprio com C#, ASP.NET, SQL Server e React. Foco em soluções para o ambiente militar.
 
 🎯 Próximos Objetivos 
-  - Aprimorar lógica de programação e algoritmos.
-  - Criar projetos completos com tecnologias modernas.
-  - Contribuir com projetos open-source.
-  - Integrar habilidades militares no mundo da tecnologia.
+-  Finalizar o projeto completo do TreinEx (front-end + back-end funcional)
+-  Aprofundar conhecimentos em C, estruturas de dados e algoritmos.
+-  Concluir o curso Harvard CS50 com repositório completo no GitHub.
+-  Aprender fundamentos sólidos de back-end com c#, ASP.NET e SQL
+-  Me preparar para entrar no mercado tech até março de 2026
