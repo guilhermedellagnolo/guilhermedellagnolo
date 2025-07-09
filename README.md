@@ -6,7 +6,7 @@ Opa! Eu sou o Guilherme Dell'Agnolo
 
 Análise e Desenvolvimento de Sistemas na Univille (2/6)
 
-**CS50 - Harvard’s Introduction to Computer Science** Jornada prática em fundamentos da computação e programação.  
+**CS50 - Harvard’s Introduction to Computer Science** 
 👉 [Veja meu progresso aqui](https://github.com/guilhermedellagnolo/CS50-journey) 
 
 **TreinEx - Sistema de Gestão de Treinos Militares** Projeto próprio com C#, ASP.NET, SQL Server e React. Foco em soluções para o ambiente militar.
