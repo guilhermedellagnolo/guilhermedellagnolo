@@ -7,7 +7,7 @@ Minha especialidade é arquitetar sistemas que funcionam sob pressão, desde **S
 
 ---
 
-### ⚙️ Arsenal Técnico (Stack Operacional)
+###  Arsenal Técnico (Stack Operacional)
 
 Minha stack não segue o 'hype', segue a missão. Priorizo ferramentas que garantem autonomia, integridade de dados e velocidade.
 
@@ -26,14 +26,14 @@ Minha stack não segue o 'hype', segue a missão. Priorizo ferramentas que garan
 
 ---
 
-### 🚀 O que estou construindo
+###  O que estou construindo
 
 * **[T3 Software](https://guilhermedellagnolo.vercel.app/)**: Sistema SaaS de gestão e apontamento industrial 100% offline. Elimina a cegueira operacional e entrega visibilidade de margem de contribuição em tempo real.
 * **FlowBot / Agentes IA**: Desenvolvimento de funcionários digitais (LLMOps + n8n) para automação complexa de vendas, CRM e consultas a banco de dados.
 
 ---
 
-### 📡 Comunicação & Contatos
+###  Comunicação & Contatos
 
 Pronto para discutir arquitetura de software, automação ou melhoria de processos.
 
