@@ -39,6 +39,6 @@ Pronto para discutir arquitetura de software, automação ou melhoria de process
 
 * **Portfólio & Soluções:** [guilhermedellagnolo.vercel.app](https://guilhermedellagnolo.vercel.app/)
 * **LinkedIn:** [in/guilhermedellagnolo](https://www.linkedin.com/in/guilhermedellagnolo/)
-* **Contato:** [wa.me/5547996589483]
+
 
 > *"A tecnologia faz sentido quando transforma dados brutos em tomada de decisão imediata."*
