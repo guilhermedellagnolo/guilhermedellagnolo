@@ -3,7 +3,7 @@
 
 Forjado na logística do Exército Brasileiro, aplico a disciplina e a resiliência militar na criação de softwares. Não escrevo código apenas por escrever; desenvolvo soluções simples para grandes problemas.
 
-Minha especialidade é arquitetar sistemas que funcionam sob pressão — desde **SaaS Industrial Offline-First** até **Agentes de Inteligência Artificial** que automatizam atendimento e vendas.
+Minha especialidade é arquitetar sistemas que funcionam sob pressão, desde **SaaS Offline-First** até **Agentes de Inteligência Artificial** que automatizam atendimento e vendas.
 
 ---
 
@@ -28,7 +28,7 @@ Minha stack não segue o 'hype', segue a missão. Priorizo ferramentas que garan
 
 ### 🚀 O que estou construindo
 
-* **[T3 Software](https://guilhermedellagnolo.vercel.app/)**: Sistema SaaS de gestão e apontamento industrial 100% offline-first. Elimina a cegueira operacional e entrega visibilidade de margem de contribuição em tempo real.
+* **[T3 Software](https://guilhermedellagnolo.vercel.app/)**: Sistema SaaS de gestão e apontamento industrial 100% offline. Elimina a cegueira operacional e entrega visibilidade de margem de contribuição em tempo real.
 * **FlowBot / Agentes IA**: Desenvolvimento de funcionários digitais (LLMOps + n8n) para automação complexa de vendas, CRM e consultas a banco de dados.
 
 ---
@@ -39,6 +39,6 @@ Pronto para discutir arquitetura de software, automação ou melhoria de process
 
 * **Portfólio & Soluções:** [guilhermedellagnolo.vercel.app](https://guilhermedellagnolo.vercel.app/)
 * **LinkedIn:** [in/guilhermedellagnolo](https://www.linkedin.com/in/guilhermedellagnolo/)
-* **Contato:** [Link para seu WhatsApp/Email no site]
+* **Contato:** [wa.me/5547996589483]
 
 > *"A tecnologia faz sentido quando transforma dados brutos em tomada de decisão imediata."*
